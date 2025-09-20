@@ -36,8 +36,8 @@
 #define PCLK_GPIO_NUM     22
 
 // WiFi credentials
-const char* ssid = "safer";
-const char* password = "12345678";
+const char* ssid = "NETWORK_NAME";
+const char* password = "PASSWORD";
 
 // Web server on port 80
 WebServer server(80);
